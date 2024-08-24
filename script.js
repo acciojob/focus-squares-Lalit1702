@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Function to handle mouse enter event
 function handleMouseEnter(event) {
     const squares = document.querySelectorAll('.square');
